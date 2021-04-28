@@ -1,46 +1,39 @@
 {
   "products": [
     {
-      'id': 1,
-      'title': 'Card 1 Title',
-      'description':
-          "Greyhound divisively hello coldly wonderfully marginally far upon excluding."
+      "id": 1,
+      "title": "Card 1 Title",
+      "description": "Greyhound divisively hello coldly wonderfully marginally far upon excluding."
     },
     {
-      'id': 2,
-      'title': 'Card 2 Title',
-      'description':
-          "Greyhound divisively hello coldly wonderfully marginally far upon excluding."
+      "id": 2,
+      "title": "Card 2 Title",
+      "description": "Greyhound divisively hello coldly wonderfully marginally far upon excluding."
     },
     {
-      'id': 3,
-      'title': 'Card 3 Title',
-      'description':
-          "Greyhound divisively hello coldly wonderfully marginally far upon excluding."
+      "id": 3,
+      "title": "Card 3 Title",
+      "description": "Greyhound divisively hello coldly wonderfully marginally far upon excluding."
     },
     {
-      'id': 4,
-      'title': 'Card 4 Title',
-      'description':
-          "Greyhound divisively hello coldly wonderfully marginally far upon excluding."
+      "id": 4,
+      "title": "Card 4 Title",
+      "description": "Greyhound divisively hello coldly wonderfully marginally far upon excluding."
     },
     {
-      'id': 5,
-      'title': 'Card 5 Title',
-      'description':
-          "Greyhound divisively hello coldly wonderfully marginally far upon excluding."
+      "id": 5,
+      "title": "Card 5 Title",
+      "description": "Greyhound divisively hello coldly wonderfully marginally far upon excluding."
     },
     {
-      'id': 6,
-      'title': 'Card 6 Title',
-      'description':
-          "Greyhound divisively hello coldly wonderfully marginally far upon excluding."
+      "id": 6,
+      "title": "Card 6 Title",
+      "description": "Greyhound divisively hello coldly wonderfully marginally far upon excluding."
     },
     {
-      'id': 7,
-      'title': 'Card 7 Title',
-      'description':
-          "Greyhound divisively hello coldly wonderfully marginally far upon excluding."
-    },
-  ];
+      "id": 7,
+      "title": "Card 7 Title",
+      "description": "Greyhound divisively hello coldly wonderfully marginally far upon excluding."
+    }
+  ]
 }
